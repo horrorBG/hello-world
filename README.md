@@ -1,2 +1,3 @@
 # hello-world
 the beginning...
+I am rly going to do my best and learn how to code !
